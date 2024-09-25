@@ -1,7 +1,5 @@
 ## Sentiment Analysis on Amazon reviews
 
-### Group project
-
 After extracting product reviews on Amazon through web scraping, we conducted a Sentiment Analysis to assess user opinions. 
 
 Subsequently, we applied a topic modeling algorithm (LDA) to identify and understand the main topics discussed in the reviews.
